@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Covalence Lab",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shannon Ritenour",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
